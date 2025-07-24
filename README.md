@@ -4,11 +4,7 @@
 
 ---
 
-## Contatos:
-Telefone: (11) 95470-5679 </br>
-Email: caiotech.silva@gmail.com
 
----
 
 ## Perfil
 
@@ -31,6 +27,14 @@ Email: caiotech.silva@gmail.com
 
 ---
 
+
+## Contatos:
+Telefone: (11) 95470-5679 </br>
+Email: caiotech.silva@gmail.com
+
+---
+
+
 <p>
   <img 
     align="left" 
@@ -48,4 +52,6 @@ Email: caiotech.silva@gmail.com
   />
 
 </p>
+
+---
 
