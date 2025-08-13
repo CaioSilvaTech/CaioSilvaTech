@@ -8,8 +8,10 @@
 
 ## Perfil
 
-<p style="font-size: 12px;">Me chamo Caio Santiago e Silva, tenho 20 anos e sou de Barueri, São Paulo. Concluí o curso técnico em Informática, onde adquiri base em suporte técnico e 
-  desenvolvimento. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Uninter, aprofundando meus conhecimentos em programação e bancos de dados.</p>
+<p style="font-size: 12px;">Me chamo Caio Santiago e Silva, tenho 20 anos e sou de Barueri, São Paulo. Concluí o curso Técnico em Informática, onde adquiri base em suporte técnico e 
+  desenvolvimento. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Uninter, aprofundando meus conhecimentos em programação e bancos de dados.
+  Estou sempre em busca conhecimento e espero desemepenhar sempre o meu máximo no dia-a-dia.
+</p>
 
 ---
 
